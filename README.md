@@ -21,7 +21,7 @@ git clone
  ```bash
  npm run dev
 ```
-### **Features**
+## Features
 ```markdown
 - content copied from Microsoft Office, Google Docs, Excel and cleaned up effectively
 - preserving the original format without unnecessary HTML code

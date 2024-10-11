@@ -8,17 +8,11 @@ A React-based application
 
 ````bash
 git clone
-
 2. Navigate to the project directory
- ```bash
  cd tiny-mce-extension
-
  3. Install dependencies
- ```bash
  npm install
-
  4. Start the development server
- ``` bash
  npm run dev
 
 ### **Feature**

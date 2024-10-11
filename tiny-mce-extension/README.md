@@ -10,12 +10,17 @@ A React-based application
 git clone
 ```
 2. Navigate to the project directory
+```bash
  cd tiny-mce-extension
- 3. Install dependencies
+ ```
+ 4. Install dependencies
+```bash
  npm install
- 4. Start the development server
+```
+ 5. Start the development server
+ ```bash
  npm run dev
-
+```
 ### **Feature**
 ```markdown
 ## Features

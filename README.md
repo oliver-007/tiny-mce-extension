@@ -26,7 +26,7 @@ git clone
 - content copied from Microsoft Office, Google Docs, Excel and cleaned up effectively
 - preserving the original format without unnecessary HTML code
 - content source will be detected and provide an option for the user to choose whether to keep the formatting or paste without it.
-````
+```
 
 ## Technologies Used
 - React (React v18)
